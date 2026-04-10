@@ -1,0 +1,21 @@
+# 収集生データ（コミットしない）
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+.cache/
+
+# 環境変数
+.env
+.env.local
+
+# OS
+.DS_Store
