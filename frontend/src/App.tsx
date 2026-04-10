@@ -3,6 +3,7 @@ import { SearchBar } from "./SearchBar";
 import { VenueList } from "./VenueList";
 import { VenueMap } from "./VenueMap";
 import { useVenues } from "./useVenues";
+import { ErrorBoundary } from "./ErrorBoundary";
 import type { Venue } from "./types";
 import "./App.css";
 
@@ -62,7 +63,9 @@ export default function App() {
               <aside className="sidebar">
                 <VenueList venues={venues} onSelect={handleSelect} selected={selected} />
               </aside>
-              <VenueMap venues={venues} selected={selected} onSelect={setSelected} />
+              <ErrorBoundary>
+                <VenueMap venues={venues} selected={selected} onSelect={setSelected} />
+              </ErrorBoundary>
             </div>
           ) : (
             <VenueList venues={venues} onSelect={handleSelect} selected={selected} />

@@ -40,7 +40,7 @@ export function useVenues(filters: Filters) {
     const capMax = filters.capacityMax === "" ? null : Number(filters.capacityMax);
 
     return venues.filter((v) => {
-      if (kw && !v.name.toLowerCase().includes(kw) && !v.address.toLowerCase().includes(kw)) {
+      if (kw && !v.name.toLowerCase().includes(kw) && !(v.address ?? "").toLowerCase().includes(kw)) {
         return false;
       }
       if (filters.prefecture && v.prefecture !== filters.prefecture) {
