@@ -1,32 +1,5 @@
 [
   {
-    "name": "コットンクラブ",
-    "address": "〒100-6402 東京都千代田区丸の内２丁目７−３ 東京ビルTOKIA 2F 2F",
-    "capacity": null,
-    "lat": 35.6785783,
-    "lng": 139.7649684,
-    "place_id": "ChIJMTWC-PqLGGARhUvIMSJDN1w",
-    "source": null
-  },
-  {
-    "name": "Dining ＆ Music BAR 音STAGE",
-    "address": "〒101-0047 東京都千代田区内神田３丁目２４−３ B1",
-    "capacity": null,
-    "lat": 35.6922815,
-    "lng": 139.7692236,
-    "place_id": "ChIJE908CwGMGGARz-XwQ9-axgY",
-    "source": null
-  },
-  {
-    "name": "飯田橋スペースウィズ",
-    "address": "〒102-0072 東京都千代田区飯田橋１丁目７−３ 増田金属ビル B1F",
-    "capacity": null,
-    "lat": 35.6990657,
-    "lng": 139.7486997,
-    "place_id": "ChIJd14nvUGMGGARapBM91e28Vk",
-    "source": null
-  },
-  {
     "name": "秋葉原 CLUB GOODMAN",
     "address": "〒101-0026 東京都千代田区神田佐久間河岸５５ 朝風染常ビル B1F",
     "capacity": null,
@@ -54,33 +27,6 @@
     "source": null
   },
   {
-    "name": "THE SHOJIMARU",
-    "address": "〒101-0041 東京都千代田区神田須田町１丁目４−６ 吉川ビル B１F",
-    "capacity": null,
-    "lat": 35.6947639,
-    "lng": 139.7679865,
-    "place_id": "ChIJ__-bYAOMGGARWD--iw23_pg",
-    "source": null
-  },
-  {
-    "name": "Live Village アポロ",
-    "address": "〒101-0053 東京都千代田区神田美土代町１１−２ Ｂ１Ｆ",
-    "capacity": null,
-    "lat": 35.6936742,
-    "lng": 139.7662752,
-    "place_id": "ChIJzbh-BgCNGGARYOcIF_C_Og8",
-    "source": null
-  },
-  {
-    "name": "LIVE SPACE racine du noix",
-    "address": "〒101-0048 東京都千代田区神田司町２丁目１５−１ B1",
-    "capacity": null,
-    "lat": 35.6939393,
-    "lng": 139.7668395,
-    "place_id": "ChIJUTxFYjSNGGARv1w72dXm4xQ",
-    "source": null
-  },
-  {
     "name": "Music BAR 音STAGE 2nd",
     "address": "〒101-0047 東京都千代田区内神田３丁目７−４ 香文堂ビル B1",
     "capacity": null,
@@ -99,24 +45,6 @@
     "source": null
   },
   {
-    "name": "KENTO'S 銀座",
-    "address": "〒104-0061 東京都中央区銀座８丁目２−１",
-    "capacity": null,
-    "lat": 35.6699987,
-    "lng": 139.7597408,
-    "place_id": "ChIJUVw60e6LGGARPbmnS5Ik34w",
-    "source": null
-  },
-  {
-    "name": "waiwaihall神保町",
-    "address": "〒101-0051 東京都千代田区神田神保町２丁目４ 麺業会館 B1",
-    "capacity": null,
-    "lat": 35.6964122,
-    "lng": 139.7562859,
-    "place_id": "ChIJE4OWJn6NGGARu7-Nh1ufTWA",
-    "source": null
-  },
-  {
     "name": "ヒューリックホール東京",
     "address": "〒100-0006 東京都千代田区有楽町２丁目５−１ 有楽町センタービル 11F",
     "capacity": null,
@@ -126,30 +54,12 @@
     "source": null
   },
   {
-    "name": "御茶ノ水パルトネール（Partenaire）",
-    "address": "〒101-0062 東京都千代田区神田駿河台３丁目１−１ 大雅ビル 3階",
-    "capacity": null,
-    "lat": 35.6957255999999,
-    "lng": 139.764818599999,
-    "place_id": "ChIJP5_5QieNGGAR1wHDmujiWMI",
-    "source": null
-  },
-  {
     "name": "AOHARIUM TOKYO",
     "address": "〒101-0024 東京都千代田区神田和泉町1−２−１９ B1",
     "capacity": null,
     "lat": 35.6996336,
     "lng": 139.7762333,
     "place_id": "ChIJX_QbGzqPGGARBFLK5ccfpIY",
-    "source": null
-  },
-  {
-    "name": "ライブハウス GINZA TACT",
-    "address": "〒104-0061 東京都中央区銀座６丁目９−１５ タクトワンビル B1F",
-    "capacity": null,
-    "lat": 35.6699559,
-    "lng": 139.7630981,
-    "place_id": "ChIJx47xGOaLGGAR2ubbkmEJeL4",
     "source": null
   },
   {
@@ -168,33 +78,6 @@
     "lat": 35.7028165,
     "lng": 139.765327499999,
     "place_id": "ChIJcU1y9RiMGGARfgQgT3M4XPo",
-    "source": null
-  },
-  {
-    "name": "東京倶楽部 水道橋店",
-    "address": "〒101-0062 東京都千代田区神田駿河台２丁目１１−１６ 駿河台さいかち坂ビル B1F",
-    "capacity": null,
-    "lat": 35.7011491999999,
-    "lng": 139.7574824,
-    "place_id": "ChIJJ5a-AD6MGGARWndiHJlVkOU",
-    "source": null
-  },
-  {
-    "name": "日本民謡・和楽器ライブ「弥栄」",
-    "address": "〒101-0045 東京都千代田区神田鍛冶町３丁目3−３ 髙遠ビル 3F",
-    "capacity": null,
-    "lat": 35.6934712,
-    "lng": 139.770579299999,
-    "place_id": "ChIJzeU9TKqNGGARPIceodxYmXA",
-    "source": null
-  },
-  {
-    "name": "ケネディハウス 銀座",
-    "address": "〒104-0061 東京都中央区銀座７丁目２−２ コリドー通り B1F 先",
-    "capacity": null,
-    "lat": 35.6716116,
-    "lng": 139.7603138,
-    "place_id": "ChIJh0tkHe-LGGAR4QncL89HruI",
     "source": null
   },
   {
@@ -234,24 +117,6 @@
     "source": null
   },
   {
-    "name": "BaseEase",
-    "address": "〒101-0021 東京都千代田区外神田５丁目５−４",
-    "capacity": null,
-    "lat": 35.7042366999999,
-    "lng": 139.7726994,
-    "place_id": "ChIJvw8GEwCNGGAR8ldQ1smO0V8",
-    "source": null
-  },
-  {
-    "name": "イゾルデ (ISOLDE)",
-    "address": "〒101-0035 東京都千代田区神田紺屋町２０−１ 神保ビル B１F",
-    "capacity": null,
-    "lat": 35.6919947999999,
-    "lng": 139.7733051,
-    "place_id": "ChIJXfmqcaqOGGARl0bFw5DeUAM",
-    "source": null
-  },
-  {
     "name": "スペースキューブ(すぺきゅー)",
     "address": "〒101-0044 東京都千代田区鍛冶町２丁目８−１ 平野ビル 地下１階",
     "capacity": null,
@@ -270,39 +135,12 @@
     "source": null
   },
   {
-    "name": "CO-WORKING&JAZZCLUB EXPRESSION",
-    "address": "〒101-0051 東京都千代田区神田神保町２丁目２０−６ B1F",
-    "capacity": null,
-    "lat": 35.6974673,
-    "lng": 139.756252599999,
-    "place_id": "ChIJgf4H1FaNGGAR_rOav08R_RU",
-    "source": null
-  },
-  {
-    "name": "アイマショウ",
-    "address": "〒100-0006 東京都千代田区有楽町２丁目５−１ 有楽町センタービル 7階 別館",
-    "capacity": null,
-    "lat": 35.6735959999999,
-    "lng": 139.7634519,
-    "place_id": "ChIJNcD2EJ-LGGAR2KRBrZr9em8",
-    "source": null
-  },
-  {
     "name": "神田CLUB F#",
     "address": "〒101-0044 東京都千代田区鍛冶町１丁目４−３ 竹内ビル B1F",
     "capacity": null,
     "lat": 35.6895868,
     "lng": 139.770525,
     "place_id": "ChIJt5G_jAiNGGARd70Qg0fMu1o",
-    "source": null
-  },
-  {
-    "name": "Showa Folk Bar",
-    "address": "〒101-0047 東京都千代田区内神田３丁目２２−２２−１０ 内神田ビル",
-    "capacity": null,
-    "lat": 35.6924426,
-    "lng": 139.7703397,
-    "place_id": "ChIJq6ouKwKMGGARdC5AkIgPxwI",
     "source": null
   },
   {
@@ -321,24 +159,6 @@
     "lat": 35.7100546,
     "lng": 139.7599903,
     "place_id": "ChIJ311ZJQyNGGARyHjHqYiql0s",
-    "source": null
-  },
-  {
-    "name": "ライブカフェ＆バー テイア",
-    "address": "〒102-0021 東京都千代田区外神田４丁目４−３ 小木曽ビル 6F",
-    "capacity": null,
-    "lat": 35.7013916,
-    "lng": 139.7718174,
-    "place_id": "ChIJI7Xy-muNGGARxDD-WUl7NEg",
-    "source": null
-  },
-  {
-    "name": "試聴室",
-    "address": "〒101-0065 東京都千代田区西神田３丁目８−５",
-    "capacity": null,
-    "lat": 35.6989274999999,
-    "lng": 139.7532294,
-    "place_id": "ChIJVVVxWRWMGGARf95nxUFfe9g",
     "source": null
   },
   {
@@ -405,57 +225,12 @@
     "source": null
   },
   {
-    "name": "Ftarri 水道橋店",
-    "address": "〒113-0033 東京都文京区本郷１丁目４−１１ 岡野ビル地下一階",
-    "capacity": null,
-    "lat": 35.7036046,
-    "lng": 139.7556047,
-    "place_id": "ChIJVVVR3T6MGGARWIa4abU-N4E",
-    "source": null
-  },
-  {
-    "name": "ジャズハウスナル バー 御茶ノ水",
-    "address": "〒101-0062 東京都千代田区神田駿河台２丁目１−１９",
-    "capacity": null,
-    "lat": 35.6995469,
-    "lng": 139.763030499999,
-    "place_id": "ChIJ09Mm5xmMGGAR6drOCC8NmEA",
-    "source": null
-  },
-  {
-    "name": "ライブハウス サウンドクリークドッポ 四ツ谷",
-    "address": "〒160-0008 東京都新宿区四谷三栄町１５−２ JHC BLDG B1",
-    "capacity": null,
-    "lat": 35.6879057,
-    "lng": 139.7270097,
-    "place_id": "ChIJ12e8ZIuMGGAR613VWg7EbNo",
-    "source": null
-  },
-  {
-    "name": "う・か・た",
-    "address": "〒113-0034 東京都文京区湯島３丁目４０−１１ オレンジビル B1",
-    "capacity": null,
-    "lat": 35.707566,
-    "lng": 139.772266,
-    "place_id": "ChIJQ_QuDiCMGGAR8Ws1hy57NWA",
-    "source": null
-  },
-  {
     "name": "ライブハウス赤坂 cantina",
     "address": "〒107-0052 東京都港区赤坂２丁目１３−１７ シントミ赤坂第２ビル 3F",
     "capacity": null,
     "lat": 35.6723525999999,
     "lng": 139.738398599999,
     "place_id": "ChIJq6q64IaLGGARHWtnI5Nvld8",
-    "source": null
-  },
-  {
-    "name": "神楽坂天窓",
-    "address": "〒162-0825 東京都新宿区神楽坂３丁目４ ＡＹビル B1F",
-    "capacity": null,
-    "lat": 35.7006617,
-    "lng": 139.740959399999,
-    "place_id": "ChIJT3NSBgCNGGARTaWkupYscPs",
     "source": null
   },
   {
@@ -468,30 +243,12 @@
     "source": null
   },
   {
-    "name": "神楽音/Kagurane",
-    "address": "〒162-0825 東京都新宿区神楽坂６丁目 ４８TOMOS 神楽坂ビル B1F",
-    "capacity": null,
-    "lat": 35.7033548,
-    "lng": 139.7360565,
-    "place_id": "ChIJXai2I1eMGGARmdu9GNMbiXw",
-    "source": null
-  },
-  {
     "name": "日本武道館",
     "address": "〒102-8321 東京都千代田区北の丸公園２−３",
     "capacity": null,
     "lat": 35.6933299999999,
     "lng": 139.7497076,
     "place_id": "ChIJE_QrgGuMGGARiHFlyXFcWyE",
-    "source": null
-  },
-  {
-    "name": "ドットドット秋田犬",
-    "address": "〒101-0032 東京都千代田区岩本町３丁目７−１１ 神田KSビル 地下１階",
-    "capacity": null,
-    "lat": 35.6959887,
-    "lng": 139.7778501,
-    "place_id": "ChIJBzDCePuPGGARuYFnZieaEs8",
     "source": null
   },
   {
@@ -540,33 +297,6 @@
     "source": null
   },
   {
-    "name": "ブルームード",
-    "address": "〒104-0045 東京都中央区築地５丁目６−１０ 浜離宮パークサイドプレイス1F",
-    "capacity": null,
-    "lat": 35.6623453,
-    "lng": 139.765523299999,
-    "place_id": "ChIJwTuqhduLGGARVegXIMIqGfk",
-    "source": null
-  },
-  {
-    "name": "ロッキートップ",
-    "address": "〒104-0061 東京都中央区銀座７丁目８−１９ 東京ビルディング 3F",
-    "capacity": null,
-    "lat": 35.6694908,
-    "lng": 139.7626123,
-    "place_id": "ChIJ4XImnuiLGGARGwY3XzB2ITE",
-    "source": null
-  },
-  {
-    "name": "麻里布倶楽部",
-    "address": "〒104-0032 東京都中央区八丁堀４丁目１−３",
-    "capacity": null,
-    "lat": 35.6745605,
-    "lng": 139.773094,
-    "place_id": "ChIJdUGSV1-JGGARsWQp7_n-e1Q",
-    "source": null
-  },
-  {
     "name": "銀座 BASE GRANBELL（ベースグランベル）",
     "address": "〒104-0061 東京都中央区銀座７丁目２−１８ グランベルスクエア B2F,B3F",
     "capacity": null,
@@ -582,42 +312,6 @@
     "lat": 35.6736578,
     "lng": 139.7684107,
     "place_id": "ChIJG2rEFgCLGGARCI1AWSlelT8",
-    "source": null
-  },
-  {
-    "name": "銀座Miiya Cafe",
-    "address": "〒104-0061 東京都中央区銀座６丁目３−１６ 泰明ビル 4F",
-    "capacity": null,
-    "lat": 35.6716068,
-    "lng": 139.761140499999,
-    "place_id": "ChIJA6AWFO-LGGARXTxl3wMVEas",
-    "source": null
-  },
-  {
-    "name": "バーブラ",
-    "address": "〒104-0061 東京都中央区銀座７丁目８−１９ B1",
-    "capacity": null,
-    "lat": 35.6694832999999,
-    "lng": 139.762523,
-    "place_id": "ChIJ4XImnuiLGGARYEYA2xvrNf4",
-    "source": null
-  },
-  {
-    "name": "ジャズクラブ銀座Swing",
-    "address": "〒104-0061 東京都中央区銀座西２−２ 銀座インズ 2 Ｆ",
-    "capacity": null,
-    "lat": 35.6751708,
-    "lng": 139.7651295,
-    "place_id": "ChIJy3jc_uSLGGARXX60ytNK3mw",
-    "source": null
-  },
-  {
-    "name": "GINZA Lounge ZERO",
-    "address": "〒104-0061 東京都中央区銀座７丁目５−４ 毛利ビル 7階",
-    "capacity": null,
-    "lat": 35.67012,
-    "lng": 139.761735,
-    "place_id": "ChIJq6r6tOiLGGARjl245DUq6uc",
     "source": null
   },
   {
@@ -639,84 +333,12 @@
     "source": null
   },
   {
-    "name": "七針",
-    "address": "〒104-0033 東京都中央区新川２丁目７−１ オリエンタルビル 地下",
-    "capacity": null,
-    "lat": 35.6762768,
-    "lng": 139.7806684,
-    "place_id": "ChIJQZaD91yJGGARwtUTGeAfdLY",
-    "source": null
-  },
-  {
-    "name": "music＆bar Cielnage",
-    "address": "〒104-0031 東京都中央区京橋１丁目４−１１ B1F",
-    "capacity": null,
-    "lat": 35.6786276,
-    "lng": 139.770108699999,
-    "place_id": "ChIJ___YRRuMGGAR5U0zXIOUs_8",
-    "source": null
-  },
-  {
-    "name": "ジャズバー エムズ",
-    "address": "〒104-0061 東京都中央区銀座６丁目４−１８",
-    "capacity": null,
-    "lat": 35.6715903,
-    "lng": 139.7616558,
-    "place_id": "ChIJw8YOau-LGGARGW0Ptb2kiSg",
-    "source": null
-  },
-  {
-    "name": "4030セミナーサイト・マデイラ",
-    "address": "〒104-0043 東京都中央区湊３丁目４−１１ ４０３０ビル",
-    "capacity": null,
-    "lat": 35.6697839,
-    "lng": 139.7774875,
-    "place_id": "ChIJXxtOKGGJGGARdV5Of0j_Ct8",
-    "source": null
-  },
-  {
-    "name": "まじかな",
-    "address": "〒104-0061 東京都中央区銀座７丁目３−１３",
-    "capacity": null,
-    "lat": 35.67009,
-    "lng": 139.7601149,
-    "place_id": "ChIJ4bQJKe-LGGARjejtZ6ZFeXw",
-    "source": null
-  },
-  {
     "name": "王子ホール",
     "address": "〒104-0061 東京都中央区銀座４丁目７−５",
     "capacity": null,
     "lat": 35.671298,
     "lng": 139.7665147,
     "place_id": "ChIJaQZpleaLGGARv8_4OGApwzw",
-    "source": null
-  },
-  {
-    "name": "CHARLEY’S BAR",
-    "address": "〒104-0068 東京都中央区銀座６丁目９−１４ 5階",
-    "capacity": null,
-    "lat": 35.6698562,
-    "lng": 139.7630316,
-    "place_id": "ChIJI2ulGOaLGGARP6cfyj6DYSc",
-    "source": null
-  },
-  {
-    "name": "Jazz & Soul Bar - The Deep",
-    "address": "〒104-0061 東京都中央区銀座６丁目３−１２ 数寄屋ビル 4階",
-    "capacity": null,
-    "lat": 35.6712081999999,
-    "lng": 139.7607358,
-    "place_id": "ChIJj7_oF--LGGAR_Bsv53tr2qM",
-    "source": null
-  },
-  {
-    "name": "Music Box I'm",
-    "address": "〒104-0061 東京都中央区銀座６丁目２−６ ウエストビル B2F",
-    "capacity": null,
-    "lat": 35.6716429,
-    "lng": 139.760890099999,
-    "place_id": "ChIJGy0hnaWLGGARjuY7b9_FA1E",
     "source": null
   },
   {
@@ -747,75 +369,12 @@
     "source": null
   },
   {
-    "name": "茅場町musicariumTAKAITOW",
-    "address": "〒104-0033 東京都中央区新川１丁目２２−１３ 三秀ビル 3F",
-    "capacity": null,
-    "lat": 35.6774428,
-    "lng": 139.7849395,
-    "place_id": "ChIJS1G796mNGGARykeGV_0lbUA",
-    "source": null
-  },
-  {
-    "name": "セザンヌ",
-    "address": "〒104-0061 東京都中央区銀座８丁目６−１１",
-    "capacity": null,
-    "lat": 35.6682754,
-    "lng": 139.7603564,
-    "place_id": "ChIJiWJp4-iLGGARjl1Vz2ac34o",
-    "source": null
-  },
-  {
     "name": "日本橋三井ホール",
     "address": "〒103-0022 東京都中央区日本橋室町２丁目２−１",
     "capacity": null,
     "lat": 35.686673,
     "lng": 139.7743817,
     "place_id": "ChIJ4ZHgoVWJGGAR0r4fwY6wbVA",
-    "source": null
-  },
-  {
-    "name": "蛙たち",
-    "address": "〒104-0061 東京都中央区銀座７丁目２−先 コリドー街 ２Ｆ",
-    "capacity": null,
-    "lat": 35.6704548,
-    "lng": 139.759826,
-    "place_id": "ChIJN2SH3O6LGGARzaMHx2YPKDQ",
-    "source": null
-  },
-  {
-    "name": "銀座BⅡ -ビーツー",
-    "address": "〒104-0061 東京都中央区銀座８丁目６−１８ 銀座カレラ弐番館ビル 地下2階",
-    "capacity": null,
-    "lat": 35.6685127999999,
-    "lng": 139.7603962,
-    "place_id": "ChIJy6wHexiLGGARsaPmv82CkSI",
-    "source": null
-  },
-  {
-    "name": "365 サロンゴカフェ",
-    "address": "〒103-0013 東京都中央区日本橋人形町１丁目８−２ 谷津ビル 1F",
-    "capacity": null,
-    "lat": 35.684385,
-    "lng": 139.782848,
-    "place_id": "ChIJ41y6HlCJGGARvodqsTPVa24",
-    "source": null
-  },
-  {
-    "name": "ginza 貴族",
-    "address": "〒104-0061 東京都中央区銀座８丁目８−１９ B1",
-    "capacity": null,
-    "lat": 35.6685422,
-    "lng": 139.76155,
-    "place_id": "ChIJ2TZOjOiLGGARntDL2jPkDmU",
-    "source": null
-  },
-  {
-    "name": "CREAM LIVE ASAKUSA",
-    "address": "〒111-0032 東京都台東区浅草１丁目１０−５ B1F",
-    "capacity": null,
-    "lat": 35.7117773,
-    "lng": 139.7923285,
-    "place_id": "ChIJn3HyRkyPGGARypmFsuVFFSA",
     "source": null
   },
   {
@@ -846,30 +405,12 @@
     "source": null
   },
   {
-    "name": "桃momo",
-    "address": "〒104-0061 東京都中央区銀座７丁目２−１１ ｢横須賀第５ビル/4F｣",
-    "capacity": null,
-    "lat": 35.670341,
-    "lng": 139.7600401,
-    "place_id": "ChIJZa6XvFuLGGARlZgZ51OY17Y",
-    "source": null
-  },
-  {
     "name": "築地本願寺ブディストホール",
     "address": "〒104-0045 東京都中央区築地３丁目１５−１ 第一伝道会館 ２階",
     "capacity": null,
     "lat": 35.666108,
     "lng": 139.771803,
     "place_id": "ChIJFTDzRd-LGGAR-vOQdBadMCc",
-    "source": null
-  },
-  {
-    "name": "ラウンジ 黎",
-    "address": "〒104-0061 東京都中央区銀座７丁目６−２",
-    "capacity": null,
-    "lat": 35.6699531,
-    "lng": 139.7621065,
-    "place_id": "ChIJOSQUpeiLGGARoLRXrsuIG9o",
     "source": null
   },
   {
@@ -909,15 +450,6 @@
     "source": null
   },
   {
-    "name": "真昼の月 夜の太陽",
-    "address": "〒169-0072 東京都新宿区大久保２丁目６−１６ 平安ビル 地下1階",
-    "capacity": null,
-    "lat": 35.7013691999999,
-    "lng": 139.707937,
-    "place_id": "ChIJ60mP9nCNGGARrduM0eyMmNk",
-    "source": null
-  },
-  {
     "name": "LIQUIDROOM",
     "address": "〒150-0011 東京都渋谷区東３丁目１６−６",
     "capacity": null,
@@ -927,165 +459,12 @@
     "source": null
   },
   {
-    "name": "ギンザフレーズ",
-    "address": "〒104-0061 東京都中央区銀座７丁目２−１１ 横須賀第５ビル",
-    "capacity": null,
-    "lat": 35.6703417999999,
-    "lng": 139.760004899999,
-    "place_id": "ChIJdRSK1-6LGGARbzqGwK2Talk",
-    "source": null
-  },
-  {
-    "name": "ナッシュビル",
-    "address": "〒104-0061 東京都中央区銀座５丁目５−１８",
-    "capacity": null,
-    "lat": 35.6716549,
-    "lng": 139.763670599999,
-    "place_id": "ChIJOYDr5uWLGGARYVr-dYW5gJ8",
-    "source": null
-  },
-  {
-    "name": "BAR アンク~Music place~ 銀座",
-    "address": "〒104-0061 東京都中央区銀座６丁目９−１３ 4階",
-    "capacity": null,
-    "lat": 35.6697245999999,
-    "lng": 139.762879699999,
-    "place_id": "ChIJKbXEIeaLGGARW9yDws4_NjQ",
-    "source": null
-  },
-  {
-    "name": "Ginza ATTIC",
-    "address": "〒104-0061 東京都中央区銀座８丁目５−１９ 三幸ビル B2",
-    "capacity": null,
-    "lat": 35.6686063,
-    "lng": 139.7598525,
-    "place_id": "ChIJ8ZMkjBGLGGARMh3ydfn6hG4",
-    "source": null
-  },
-  {
-    "name": "ライブハウスＢｅ(会員制)",
-    "address": "〒106-0032 東京都港区六本木３丁目１４−１６",
-    "capacity": null,
-    "lat": 35.6627399,
-    "lng": 139.734333199999,
-    "place_id": "ChIJbxP2HZ2LGGARZHuDk6M-Uzc",
-    "source": null
-  },
-  {
-    "name": "LIVE BAR 赤坂 Tonalite(トナリテ)",
-    "address": "〒107-0052 東京都港区赤坂３丁目１６−４ DMK 赤坂ビル B1F",
-    "capacity": null,
-    "lat": 35.6746704,
-    "lng": 139.736851299999,
-    "place_id": "ChIJOcIlUn-MGGARn9wvsyefGxg",
-    "source": null
-  },
-  {
-    "name": "GT LIVE TOKYO",
-    "address": "〒106-0032 東京都港区六本木７丁目１２−１４ United Trust Building II",
-    "capacity": null,
-    "lat": 35.6637066,
-    "lng": 139.7296871,
-    "place_id": "ChIJC2lbXwCLGGARbc_UqPlM1Y0",
-    "source": null
-  },
-  {
-    "name": "ライブレストラン 六本木バードランド",
-    "address": "〒106-0032 東京都港区六本木３丁目１３−１４ ゴトウビル３rd ５F",
-    "capacity": null,
-    "lat": 35.6631548999999,
-    "lng": 139.7339715,
-    "place_id": "ChIJ4QwHL4eLGGARtf9lDDac2Co",
-    "source": null
-  },
-  {
     "name": "J-SQUARE SHINAGAWA",
     "address": "〒108-0075 東京都港区港南２丁目５−１２ 2F",
     "capacity": null,
     "lat": 35.6284959,
     "lng": 139.7430489,
     "place_id": "ChIJuWv52ESKGGARu8Cj1wrL8Cc",
-    "source": null
-  },
-  {
-    "name": "ザ・サード",
-    "address": "〒106-0032 東京都港区六本木３丁目９−３ No.2 ビレジビル",
-    "capacity": null,
-    "lat": 35.6637969999999,
-    "lng": 139.734148,
-    "place_id": "ChIJUUFrLJ2LGGAReVPuZlBfOEo",
-    "source": null
-  },
-  {
-    "name": "星の音 BLUE STAR in da house!!",
-    "address": "〒107-0052 東京都港区赤坂３丁目９−４ 赤坂扇やビル 9階",
-    "capacity": null,
-    "lat": 35.6770725,
-    "lng": 139.7362632,
-    "place_id": "ChIJf9vnrwCNGGARheKFc3cFcRA",
-    "source": null
-  },
-  {
-    "name": "ステージ1",
-    "address": "〒107-0052 東京都港区赤坂３丁目１１−１９ UF3ビル 4F",
-    "capacity": null,
-    "lat": 35.675274,
-    "lng": 139.737036,
-    "place_id": "ChIJ5UU_S3-MGGARpRiDnltHpn4",
-    "source": null
-  },
-  {
-    "name": "音楽実験室 新世界",
-    "address": "〒106-0031 東京都港区西麻布１丁目８−４ 三保谷硝子ビル B1F",
-    "capacity": null,
-    "lat": 35.660709,
-    "lng": 139.725813,
-    "place_id": "ChIJCexoCnqLGGARX3J6CAoMYVk",
-    "source": null
-  },
-  {
-    "name": "Jステージ",
-    "address": "〒106-0032 東京都港区六本木３丁目１３−１０ 北麻布ビルディング",
-    "capacity": null,
-    "lat": 35.66277,
-    "lng": 139.733592,
-    "place_id": "ChIJSbMqPJ2LGGARuddBbkmdPsI",
-    "source": null
-  },
-  {
-    "name": "unravel tokyo",
-    "address": "〒106-0032 東京都港区六本木４丁目１１−１１ 六本木Gmビル B1F",
-    "capacity": null,
-    "lat": 35.6642183,
-    "lng": 139.731533499999,
-    "place_id": "ChIJl5BC4m6LGGARvnvr9DaOiY8",
-    "source": null
-  },
-  {
-    "name": "赤坂エル・カミーノ",
-    "address": "〒107-0052 東京都港区赤坂２丁目１５−１８ 西山興業赤坂ビル １Ｆ",
-    "capacity": null,
-    "lat": 35.671685,
-    "lng": 139.738303,
-    "place_id": "ChIJz6LpwYaLGGARlWDBBmJgqTU",
-    "source": null
-  },
-  {
-    "name": "ハイサイJr．",
-    "address": "〒106-0032 東京都港区六本木５丁目１８−１ PURE六本木 5F",
-    "capacity": null,
-    "lat": 35.6612919,
-    "lng": 139.737064,
-    "place_id": "ChIJ42EtCJyLGGARCvjQlSpAVQs",
-    "source": null
-  },
-  {
-    "name": "アプロ赤坂-LIVE COMMUNICATION Aphro Akasaka-",
-    "address": "〒107-0052 東京都港区赤坂２丁目１３−２１ B1",
-    "capacity": null,
-    "lat": 35.6728939,
-    "lng": 139.7381561,
-    "place_id": "ChIJax5XTFOLGGARotQB3DmRB80",
     "source": null
   },
   {
@@ -1125,15 +504,6 @@
     "source": null
   },
   {
-    "name": "ABBEY ROAD Tokyo",
-    "address": "〒106-0032 東京都港区六本木５丁目１６−５２ Forum, Imperial Roppongi Ⅱ B2",
-    "capacity": null,
-    "lat": 35.6615935,
-    "lng": 139.7353478,
-    "place_id": "ChIJjZaRCniLGGARDZx1XAKFBU0",
-    "source": null
-  },
-  {
     "name": "月見ル君想フ",
     "address": "〒107-0062 東京都港区南青山４丁目９−１ シンプル青山ビル 地下1階",
     "capacity": null,
@@ -1158,42 +528,6 @@
     "lat": 35.6608884,
     "lng": 139.7369732,
     "place_id": "ChIJq6oGB5yLGGARdzLnWRJbtA4",
-    "source": null
-  },
-  {
-    "name": "隠れ家",
-    "address": "〒105-0013 東京都港区浜松町１丁目１２−８ 横須賀第8ビル",
-    "capacity": null,
-    "lat": 35.6583894,
-    "lng": 139.7564017,
-    "place_id": "ChIJ8UX1uMaLGGAR1tcWeYU6Ojg",
-    "source": null
-  },
-  {
-    "name": "navey floor",
-    "address": "〒107-0052 東京都港区赤坂２丁目１４−１ B1",
-    "capacity": null,
-    "lat": 35.6728777,
-    "lng": 139.7378764,
-    "place_id": "ChIJKy5lB2-LGGARZQF4HFA0shc",
-    "source": null
-  },
-  {
-    "name": "カーサ・クラシカ",
-    "address": "〒107-0052 東京都港区赤坂３丁目１９−９ ORANGE BOX オレンジボックス B1F",
-    "capacity": null,
-    "lat": 35.675813,
-    "lng": 139.736042,
-    "place_id": "ChIJdb8JI3-MGGAROubndssevUg",
-    "source": null
-  },
-  {
-    "name": "All Of Me Club",
-    "address": "〒107-0052 東京都港区赤坂９丁目６−２６ ２Ｆ",
-    "capacity": null,
-    "lat": 35.666305,
-    "lng": 139.728645,
-    "place_id": "ChIJ3_jjMnmLGGARuc1gQVqSLGM",
     "source": null
   },
   {
@@ -1251,57 +585,12 @@
     "source": null
   },
   {
-    "name": "Music bar HARLEQ",
-    "address": "〒107-0052 東京都港区赤坂３丁目１２−２２ 竹下ビル 5階",
-    "capacity": null,
-    "lat": 35.6742096,
-    "lng": 139.7376572,
-    "place_id": "ChIJG0XrUIeLGGARMS5kXvHK7-c",
-    "source": null
-  },
-  {
     "name": "六本木クラップス",
     "address": "〒106-0032 東京都港区六本木３丁目１６−３３ 青葉六本木ビル B1",
     "capacity": null,
     "lat": 35.6620931,
     "lng": 139.7363829,
     "place_id": "ChIJS2otZ5yLGGARK32cYf0sVlg",
-    "source": null
-  },
-  {
-    "name": "Alfie（アルフィー）",
-    "address": "〒106-0032 東京都港区六本木６丁目２−３５ ハマ六本木ビル 5F",
-    "capacity": null,
-    "lat": 35.6621747,
-    "lng": 139.7306501,
-    "place_id": "ChIJNX7sjHeLGGAR8Dua6_6pAKw",
-    "source": null
-  },
-  {
-    "name": "カントリーハウス",
-    "address": "〒107-0052 東京都港区赤坂５丁目１−４ 赤坂いそむらビル",
-    "capacity": null,
-    "lat": 35.674031,
-    "lng": 139.736682299999,
-    "place_id": "ChIJ__8LqYCLGGARUROTckqkSNw",
-    "source": null
-  },
-  {
-    "name": "MZES TOKYO",
-    "address": "〒107-0052 東京都港区赤坂３丁目１４−１ コンチネンタルⅣビル 地下1階",
-    "capacity": null,
-    "lat": 35.6740361999999,
-    "lng": 139.7373209,
-    "place_id": "ChIJr5J2BvWLGGARwd437Fg-sfw",
-    "source": null
-  },
-  {
-    "name": "クローフィッシュ赤坂",
-    "address": "〒107-0052 東京都港区赤坂３丁目１１−７ 地下",
-    "capacity": null,
-    "lat": 35.6745778,
-    "lng": 139.7376381,
-    "place_id": "ChIJ6XzOqXiMGGARh-FrAk1kNcw",
     "source": null
   },
   {
@@ -1323,33 +612,6 @@
     "source": null
   },
   {
-    "name": "POLARIS tokyo",
-    "address": "〒107-0062 東京都港区南青山６丁目２−１０ バックボーンハウス B2F",
-    "capacity": null,
-    "lat": 35.6609171,
-    "lng": 139.7154663,
-    "place_id": "ChIJiQXxZaeNGGAR_vFjvC_c3WA",
-    "source": null
-  },
-  {
-    "name": "SHIBAURA HOUSE",
-    "address": "〒108-0023 東京都港区芝浦３丁目１５−４",
-    "capacity": null,
-    "lat": 35.6421609,
-    "lng": 139.748538,
-    "place_id": "ChIJ57m-SkuKGGARosKdamK1Vew",
-    "source": null
-  },
-  {
-    "name": "霞町音楽堂 Kasumicho Ongakudo ミュージックBAR",
-    "address": "〒106-0031 東京都港区西麻布４丁目２−６ Ryowa Palace 西麻布 B1",
-    "capacity": null,
-    "lat": 35.6581778,
-    "lng": 139.723394499999,
-    "place_id": "ChIJxcwGRTiLGGARl1Fz4P5d8jM",
-    "source": null
-  },
-  {
     "name": "VENT Tokyo",
     "address": "〒107-0062 東京都港区南青山３丁目１８−１９",
     "capacity": null,
@@ -1368,15 +630,6 @@
     "source": null
   },
   {
-    "name": "麻布生演奏Bar ブルーシャトウYAMASE",
-    "address": "〒106-0041 東京都港区麻布台３丁目４−１１ 中央飯倉ビル",
-    "capacity": null,
-    "lat": 35.6605215999999,
-    "lng": 139.7390342,
-    "place_id": "ChIJSUzjcZmLGGARUql1H5uEzpQ",
-    "source": null
-  },
-  {
     "name": "Virtuoso AKASAKA",
     "address": "〒107-0052 東京都港区赤坂２丁目１３−１４ B1F",
     "capacity": null,
@@ -1386,30 +639,12 @@
     "source": null
   },
   {
-    "name": "gigabar TOKYO",
-    "address": "〒107-0062 東京都港区南青山７丁目１１−４ HT 南青山 ビル B１F",
-    "capacity": null,
-    "lat": 35.6586808,
-    "lng": 139.7187583,
-    "place_id": "ChIJBSiTmWWLGGAR-eNu8-ZtIWU",
-    "source": null
-  },
-  {
     "name": "LIVE ROPPONGI BUZZ",
     "address": "〒106-0032 東京都港区六本木５丁目１６−５２ フォーラム Ｂ２",
     "capacity": null,
     "lat": 35.6615854,
     "lng": 139.7353431,
     "place_id": "ChIJmyu4WpyLGGARaNWg5tNOPeg",
-    "source": null
-  },
-  {
-    "name": "CLUB 8",
-    "address": "〒107-0052 東京都港区赤坂２丁目１５−１２ B1F",
-    "capacity": null,
-    "lat": 35.6713509,
-    "lng": 139.7376003,
-    "place_id": "ChIJ41UMVNCLGGAR_8_A6vstKTY",
     "source": null
   },
   {
@@ -1626,15 +861,6 @@
     "lat": 35.6957152999999,
     "lng": 139.7035876,
     "place_id": "ChIJq6bNd6qNGGARMg1LrGCIn1w",
-    "source": null
-  },
-  {
-    "name": "Live＆Bar Ruto",
-    "address": "〒160-0004 東京都新宿区四谷４丁目２５−６ DeLCCS新宿御苑 B1F",
-    "capacity": null,
-    "lat": 35.6898591,
-    "lng": 139.7152405,
-    "place_id": "ChIJKWFMFOmMGGARIwPXZgb8aTY",
     "source": null
   },
   {
@@ -2025,15 +1251,6 @@
     "source": null
   },
   {
-    "name": "Bar Isshee",
-    "address": "〒113-0022 東京都文京区千駄木３丁目３６−１１ センチュリ 21 地下1階",
-    "capacity": null,
-    "lat": 35.7250005,
-    "lng": 139.762911799999,
-    "place_id": "ChIJReYxCtKNGGARguh-SMJQFnI",
-    "source": null
-  },
-  {
     "name": "音楽室ＤＸ",
     "address": "〒169-0051 東京都新宿区西早稲田３丁目２０−４ 金子ビル",
     "capacity": null,
@@ -2052,66 +1269,12 @@
     "source": null
   },
   {
-    "name": "BAR MY PLACE",
-    "address": "〒112-0002 東京都文京区小石川３丁目１−６ エコービル３",
-    "capacity": null,
-    "lat": 35.7110181,
-    "lng": 139.745624,
-    "place_id": "ChIJDeqHPkyMGGARVaiooS9UbVI",
-    "source": null
-  },
-  {
     "name": "東京倶楽部 本郷店",
     "address": "〒113-0033 東京都文京区本郷３丁目３１−３ 本郷スズヨシビルB1F",
     "capacity": null,
     "lat": 35.7062138,
     "lng": 139.761298899999,
     "place_id": "ChIJ52UNljyMGGAROGswS2Q9b7U",
-    "source": null
-  },
-  {
-    "name": "LIVE×BAR 〇",
-    "address": "〒170-0004 東京都豊島区北大塚２丁目１２−７ 12共同ビル 401",
-    "capacity": null,
-    "lat": 35.7329431,
-    "lng": 139.728110099999,
-    "place_id": "ChIJr36wZxKNGGARO0GNnSHVCSA",
-    "source": null
-  },
-  {
-    "name": "カデンツァコンサートサロン",
-    "address": "〒113-0033 東京都文京区本郷７丁目２−２ Ｂ１",
-    "capacity": null,
-    "lat": 35.7076625,
-    "lng": 139.762467599999,
-    "place_id": "ChIJcZrtVDuMGGARRXI0NH2RsEc",
-    "source": null
-  },
-  {
-    "name": "イエローリボン",
-    "address": "〒113-0034 東京都文京区湯島３丁目３６−８",
-    "capacity": null,
-    "lat": 35.7076118999999,
-    "lng": 139.7702698,
-    "place_id": "ChIJM7LbsiGMGGARbTsiHbXxZsc",
-    "source": null
-  },
-  {
-    "name": "LiveSpace早稲田RiNen",
-    "address": "〒162-0042 東京都新宿区早稲田町74−４ 早稲田オアシスビル B1",
-    "capacity": null,
-    "lat": 35.7057766,
-    "lng": 139.7228735,
-    "place_id": "ChIJVVUJowKNGGARg1wuwkUIVN4",
-    "source": null
-  },
-  {
-    "name": "こまごめわいわいほーる【移転】",
-    "address": "〒170-0003 東京都豊島区駒込２丁目７−１１ ハイム霜降 Ｂ１Ｆ",
-    "capacity": null,
-    "lat": 35.7394587,
-    "lng": 139.746741,
-    "place_id": "ChIJN6sJZZGNGGAR0DVKbFHB1DY",
     "source": null
   },
   {
@@ -2169,15 +1332,6 @@
     "source": null
   },
   {
-    "name": "Eastwood Pinoy Bar & Music Party",
-    "address": "〒113-0034 東京都文京区湯島３丁目４４−２ ＹＫビル 1F",
-    "capacity": null,
-    "lat": 35.7089205,
-    "lng": 139.771208299999,
-    "place_id": "ChIJOW03enmNGGARLt8v0A9-F3w",
-    "source": null
-  },
-  {
     "name": "高田馬場CLUB PHASE",
     "address": "〒171-0033 東京都豊島区高田３丁目８−５ セントラル・ワセダ B1F",
     "capacity": null,
@@ -2211,15 +1365,6 @@
     "lat": 35.7207475,
     "lng": 139.7802173,
     "place_id": "ChIJCdCa44SOGGARDuve0bphRck",
-    "source": null
-  },
-  {
-    "name": "なってるハウス",
-    "address": "〒111-0036 東京都台東区松が谷４丁目１−８ なってるハウス",
-    "capacity": null,
-    "lat": 35.7173541,
-    "lng": 139.7887194,
-    "place_id": "ChIJp5keG5SOGGAR1__5vkWzNyc",
     "source": null
   },
   {
@@ -2259,66 +1404,12 @@
     "source": null
   },
   {
-    "name": "Every Swing",
-    "address": "〒110-0015 東京都台東区東上野３丁目１５−１４ ウエノエストビル B１Ｆ",
-    "capacity": null,
-    "lat": 35.7105527,
-    "lng": 139.7785747,
-    "place_id": "ChIJ6yz2lZiOGGARFgOv4ov5pPs",
-    "source": null
-  },
-  {
-    "name": "ＦＯＵＲ ＆ ＭＯＲＥ",
-    "address": "〒111-0031 東京都台東区千束２丁目２５−４ B1",
-    "capacity": null,
-    "lat": 35.721576,
-    "lng": 139.7907109,
-    "place_id": "ChIJ6XfGV5KOGGARAVY-hu5oMio",
-    "source": null
-  },
-  {
     "name": "両国SUNRIZE",
     "address": "〒130-0026 東京都墨田区両国４丁目３６−６",
     "capacity": null,
     "lat": 35.6951314,
     "lng": 139.7956673,
     "place_id": "ChIJo69OrDWJGGAReucKQNxUnQA",
-    "source": null
-  },
-  {
-    "name": "ライブバー舵輪",
-    "address": "〒111-0032 東京都台東区浅草２丁目１−１７ メゾンルノーブ",
-    "capacity": null,
-    "lat": 35.712874,
-    "lng": 139.797652,
-    "place_id": "ChIJKyaiT8GOGGARrLt1fW68e5s",
-    "source": null
-  },
-  {
-    "name": "ジャズクラブアリエス",
-    "address": "〒110-0005 東京都台東区上野２丁目４ ２丁目４−８ サントリー会館 B１F",
-    "capacity": null,
-    "lat": 35.7088074,
-    "lng": 139.7719771,
-    "place_id": "ChIJJdnqYyCMGGARhKUYfDbCMt4",
-    "source": null
-  },
-  {
-    "name": "ライブスペース Qui（き）",
-    "address": "〒110-0005 東京都台東区上野２丁目１３−２ 4F",
-    "capacity": null,
-    "lat": 35.7100675999999,
-    "lng": 139.7729383,
-    "place_id": "ChIJR_CZJ56OGGARSntGe6ymPmw",
-    "source": null
-  },
-  {
-    "name": "ジャズバー ソウルトレイン",
-    "address": "〒111-0033 東京都台東区花川戸１丁目１３−１６ 浜松ビル 2F",
-    "capacity": null,
-    "lat": 35.7131244,
-    "lng": 139.7996661,
-    "place_id": "ChIJ___DCsSOGGARYGOFkReckZc",
     "source": null
   },
   {
@@ -2376,66 +1467,12 @@
     "source": null
   },
   {
-    "name": "浅草 LIVE IN APPLE",
-    "address": "〒111-0034 東京都台東区雷門１丁目１６−９ 気楽ビル ４F",
-    "capacity": null,
-    "lat": 35.7111936,
-    "lng": 139.7926142,
-    "place_id": "ChIJd3m-RL-OGGAR61x28Rlbcb8",
-    "source": null
-  },
-  {
-    "name": "music bar BELL",
-    "address": "〒110-0005 東京都台東区上野２丁目８−４ 日栄ビル1番館 壱番館 1F",
-    "capacity": null,
-    "lat": 35.709246,
-    "lng": 139.7724073,
-    "place_id": "ChIJnU9UiyuNGGARsO5G7l2pCXM",
-    "source": null
-  },
-  {
-    "name": "Jazoo",
-    "address": "〒111-0032 東京都台東区浅草２丁目１９−5-B1",
-    "capacity": null,
-    "lat": 35.7169583,
-    "lng": 139.7929304,
-    "place_id": "ChIJFXTc1WWPGGAR3qAOvDpqE4A",
-    "source": null
-  },
-  {
-    "name": "HUB浅草店",
-    "address": "〒111-0032 東京都台東区浅草１丁目１２−２ リッチライフ浅一ビル １Ｆ",
-    "capacity": null,
-    "lat": 35.7118910999999,
-    "lng": 139.792793,
-    "place_id": "ChIJKV_WZb-OGGARsbsa0XfOxkk",
-    "source": null
-  },
-  {
     "name": "上野ニコニコ劇場",
     "address": "〒110-0005 東京都台東区上野２丁目１−３ ２階",
     "capacity": null,
     "lat": 35.708318,
     "lng": 139.772547,
     "place_id": "ChIJAf39BlONGGARMMLwnIQGmyY",
-    "source": null
-  },
-  {
-    "name": "駅前ホール ベースオントップ上野 | UENO HALL",
-    "address": "〒110-0015 東京都台東区東上野３丁目１８−２ タカラスポーツビル 1F",
-    "capacity": null,
-    "lat": 35.7109726,
-    "lng": 139.7774095,
-    "place_id": "ChIJbfmf2TOPGGARXs0wwJAyK9w",
-    "source": null
-  },
-  {
-    "name": "Hawaiian Music Live House WAIIHA",
-    "address": "〒120-0034 東京都足立区千住３丁目１",
-    "capacity": null,
-    "lat": 35.7513222,
-    "lng": 139.8005262,
-    "place_id": "ChIJ1VL3jEaOGGARn_E-sr2Cqoc",
     "source": null
   },
   {
@@ -2457,30 +1494,12 @@
     "source": null
   },
   {
-    "name": "Public House Zen 浅草店",
-    "address": "〒111-0034 東京都台東区雷門２丁目３−７ 5F",
-    "capacity": null,
-    "lat": 35.7097378,
-    "lng": 139.7965841,
-    "place_id": "ChIJCUeSpcSPGGARaW5no0KoVlg",
-    "source": null
-  },
-  {
     "name": "NINE LIVES",
     "address": "〒131-0033 東京都墨田区向島２丁目９−７",
     "capacity": null,
     "lat": 35.7165429,
     "lng": 139.8083318,
     "place_id": "ChIJk7ju-NuOGGARwZ-oCDcEN68",
-    "source": null
-  },
-  {
-    "name": "ライブ バー ランチェリー",
-    "address": "〒120-0034 東京都足立区千住２丁目６５ 双葉ビル 2F",
-    "capacity": null,
-    "lat": 35.748581,
-    "lng": 139.804022,
-    "place_id": "ChIJ1RBGiE-OGGARHbtA9n1jkQE",
     "source": null
   },
   {
@@ -2508,24 +1527,6 @@
     "lat": 35.6973048,
     "lng": 139.810151099999,
     "place_id": "ChIJS5hKGCmJGGAR2H5MvHuiBv0",
-    "source": null
-  },
-  {
-    "name": "MUSIC BAR GARAGE 錦糸町",
-    "address": "〒130-0022 東京都墨田区江東橋４丁目２０−４ エメラルドビル B1F",
-    "capacity": null,
-    "lat": 35.6951162999999,
-    "lng": 139.8158865,
-    "place_id": "ChIJCWlY_o6JGGAR9TKDReGMie8",
-    "source": null
-  },
-  {
-    "name": "アーリーバード",
-    "address": "〒130-0013 東京都墨田区錦糸２丁目３−９ アライビル 3階",
-    "capacity": null,
-    "lat": 35.6979362,
-    "lng": 139.812488299999,
-    "place_id": "ChIJQTO5tSmJGGARkj7gmATB_mI",
     "source": null
   },
   {
@@ -2565,24 +1566,6 @@
     "source": null
   },
   {
-    "name": "両国 門天ホール",
-    "address": "〒130-0026 東京都墨田区両国１丁目３−９ ムラサワビル1 1階",
-    "capacity": null,
-    "lat": 35.6932299,
-    "lng": 139.790189299999,
-    "place_id": "ChIJIYFfqEuJGGAR7tUoDWUtN58",
-    "source": null
-  },
-  {
-    "name": "Live&Bar STAND☆UP!!",
-    "address": "〒136-0071 東京都江東区亀戸１丁目２１−５ ＹＳビル B1",
-    "capacity": null,
-    "lat": 35.6963022,
-    "lng": 139.823935399999,
-    "place_id": "ChIJueaQcp2JGGAREZiyn-in1Kw",
-    "source": null
-  },
-  {
     "name": "すみだリバーサイドホール",
     "address": "〒130-8640 東京都墨田区吾妻橋１丁目２３−２０",
     "capacity": null,
@@ -2598,24 +1581,6 @@
     "lat": 35.695765,
     "lng": 139.8045556,
     "place_id": "ChIJAQDQFS6JGGARwg928EhVoi8",
-    "source": null
-  },
-  {
-    "name": "スノーマンあかり",
-    "address": "〒131-0034 東京都墨田区墨田４丁目７",
-    "capacity": null,
-    "lat": 35.7334189,
-    "lng": 139.8214611,
-    "place_id": "ChIJt6fvG7mPGGARV9Zdvp77JvE",
-    "source": null
-  },
-  {
-    "name": "Silkroad Cafe - シルクロードカフェ",
-    "address": "〒130-0012 東京都墨田区太平３丁目２−８",
-    "capacity": null,
-    "lat": 35.6996582999999,
-    "lng": 139.8137969,
-    "place_id": "ChIJRS8K4imJGGARIQPsPv-m_as",
     "source": null
   },
   {
@@ -2715,15 +1680,6 @@
     "lat": 35.7616049999999,
     "lng": 139.8210273,
     "place_id": "ChIJ2RzRTraPGGARrx8F97cO494",
-    "source": null
-  },
-  {
-    "name": "yanagi’s Volli BAR",
-    "address": "〒130-0022 東京都墨田区江東橋３丁目５−１ ザバレル立田ビル B2F",
-    "capacity": null,
-    "lat": 35.6938701,
-    "lng": 139.8133636,
-    "place_id": "ChIJX1lUhCeJGGAR8U85T17prO4",
     "source": null
   },
   {
@@ -2880,33 +1836,6 @@
     "source": null
   },
   {
-    "name": "KIWA TENNOZ",
-    "address": "〒140-0002 東京都品川区東品川２丁目１−３",
-    "capacity": null,
-    "lat": 35.6228288,
-    "lng": 139.7476682,
-    "place_id": "ChIJRbuINNqLGGARqN4KGCTBJj8",
-    "source": null
-  },
-  {
-    "name": "ライブレストラン【Rocky】",
-    "address": "〒141-0031 東京都品川区西五反田１丁目１８−１ 9F",
-    "capacity": null,
-    "lat": 35.6236674999999,
-    "lng": 139.722913399999,
-    "place_id": "ChIJX9pCvvqKGGARBV6ZWlLm3HM",
-    "source": null
-  },
-  {
-    "name": "Live&Bar ARCO",
-    "address": "〒140-0001 東京都品川区北品川２丁目９−２５",
-    "capacity": null,
-    "lat": 35.618328,
-    "lng": 139.742692,
-    "place_id": "ChIJu9yBmWiKGGARoj5kTpOuHuE",
-    "source": null
-  },
-  {
     "name": "Gotanda G6 / G7",
     "address": "〒141-0031 東京都品川区西五反田２丁目６−３ 東洋ビル B1",
     "capacity": null,
@@ -2961,51 +1890,6 @@
     "source": null
   },
   {
-    "name": "l-e",
-    "address": "〒142-0042 東京都品川区豊町１丁目３−１１ スノーベル豊町 B1",
-    "capacity": null,
-    "lat": 35.6140131999999,
-    "lng": 139.7240706,
-    "place_id": "ChIJJRG11PKKGGARkLlqiNO7a-M",
-    "source": null
-  },
-  {
-    "name": "COOLSMILE-66",
-    "address": "〒142-0062 東京都品川区小山３丁目２７−３ ペットサウンズビル B1F",
-    "capacity": null,
-    "lat": 35.6198264999999,
-    "lng": 139.7034771,
-    "place_id": "ChIJlSB9236LGGAR-BsbNx2DdRE",
-    "source": null
-  },
-  {
-    "name": "音市",
-    "address": "〒140-0011 東京都品川区東大井３丁目２７−５ イーグル立会川B-1F",
-    "capacity": null,
-    "lat": 35.5988885,
-    "lng": 139.7381523,
-    "place_id": "ChIJ4b9EYtZhGGARdH05C6-2pr0",
-    "source": null
-  },
-  {
-    "name": "PISTOL",
-    "address": "〒141-0022 東京都品川区東五反田１丁目２１−１２",
-    "capacity": null,
-    "lat": 35.6258601,
-    "lng": 139.725957699999,
-    "place_id": "ChIJ_3h1IySLGGARWJLMxMsVhGU",
-    "source": null
-  },
-  {
-    "name": "Permian",
-    "address": "〒141-0031 東京都品川区西五反田３丁目１４−４ KakutaniレイヴァリーB1",
-    "capacity": null,
-    "lat": 35.6277971999999,
-    "lng": 139.7136443,
-    "place_id": "ChIJnWcZJuCKGGAR_HmVc1Xe7i8",
-    "source": null
-  },
-  {
     "name": "Live Space 428",
     "address": "〒140-0014 東京都品川区大井４丁目７−１１",
     "capacity": null,
@@ -3021,51 +1905,6 @@
     "lat": 35.6274388,
     "lng": 139.7243286,
     "place_id": "ChIJNSzZJgCLGGARA_D7QlNYrLk",
-    "source": null
-  },
-  {
-    "name": "アートライブサロンホール",
-    "address": "〒140-0001 東京都品川区北品川２丁目４−２ 001",
-    "capacity": null,
-    "lat": 35.6197574,
-    "lng": 139.7428693,
-    "place_id": "ChIJNxJQw9-LGGAR1odnCeyy6P0",
-    "source": null
-  },
-  {
-    "name": "E-LOUNGE（イーラウンジ）",
-    "address": "〒140-0011 東京都品川区東大井５丁目１６−９ フィルパーク大井町駅前３階",
-    "capacity": null,
-    "lat": 35.6071498999999,
-    "lng": 139.7354519,
-    "place_id": "ChIJUcDoxCKLGGARsfdfVOnbQvo",
-    "source": null
-  },
-  {
-    "name": "music bar PLANET EARTH",
-    "address": "〒142-0053 東京都品川区中延１丁目３−５ 荏原中延辻ビル 1F",
-    "capacity": null,
-    "lat": 35.6134913,
-    "lng": 139.7115016,
-    "place_id": "ChIJS7Dli12LGGARjvN7hlOC9KA",
-    "source": null
-  },
-  {
-    "name": "OTONAGE Labs.",
-    "address": "〒142-0053 東京都品川区中延５丁目４−９ B1F",
-    "capacity": null,
-    "lat": 35.6032381,
-    "lng": 139.7096545,
-    "place_id": "ChIJhyEuSgCLGGARNaGXnoSM2TE",
-    "source": null
-  },
-  {
-    "name": "東京倶楽部 目黒店",
-    "address": "〒141-0021 東京都品川区上大崎２丁目１８−２０ 中銀目黒駅前マンシオン",
-    "capacity": null,
-    "lat": 35.6362042,
-    "lng": 139.714554,
-    "place_id": "ChIJk2O8rxmLGGARAIMUuwfpbpA",
     "source": null
   },
   {
@@ -3087,147 +1926,12 @@
     "source": null
   },
   {
-    "name": "FJ's",
-    "address": "〒153-0061 東京都目黒区中目黒５丁目１−２０",
-    "capacity": null,
-    "lat": 35.6380416,
-    "lng": 139.6974187,
-    "place_id": "ChIJFUFNZzaLGGARqltNvy4ITmE",
-    "source": null
-  },
-  {
-    "name": "ブルースアレイジャパン",
-    "address": "〒153-0063 東京都目黒区目黒１丁目３−１４",
-    "capacity": null,
-    "lat": 35.6348169,
-    "lng": 139.7140463,
-    "place_id": "ChIJoWKY_hiLGGARPu_IJeQVSo8",
-    "source": null
-  },
-  {
-    "name": "中目黒 楽屋",
-    "address": "〒153-0051 東京都目黒区上目黒２丁目１５−６",
-    "capacity": null,
-    "lat": 35.6422743,
-    "lng": 139.6977131,
-    "place_id": "ChIJj9b3oEmLGGARSllqiuWBJn0",
-    "source": null
-  },
-  {
-    "name": "APIA40",
-    "address": "〒152-0003 東京都目黒区碑文谷５丁目６−９ サンワホームズ碑文谷ビル B1F",
-    "capacity": null,
-    "lat": 35.6230937,
-    "lng": 139.6838263,
-    "place_id": "ChIJQd1PB9H0GGARtaedYxXzaBY",
-    "source": null
-  },
-  {
-    "name": "学芸大学メイプルハウス",
-    "address": "〒153-0053 東京都目黒区五本木３丁目１８−７ 第２飯島ビル B1F",
-    "capacity": null,
-    "lat": 35.6316801,
-    "lng": 139.6854873,
-    "place_id": "ChIJo-AZXcn0GGAR1e8fpDjWV7o",
-    "source": null
-  },
-  {
-    "name": "TIME OUT",
-    "address": "〒153-0063 東京都目黒区目黒１丁目６−１３ フジビル Ｂ１Ｆ",
-    "capacity": null,
-    "lat": 35.6345279,
-    "lng": 139.7118706,
-    "place_id": "ChIJ72_UfRiLGGARVwFuJxa4oSU",
-    "source": null
-  },
-  {
-    "name": "中目黒トライ",
-    "address": "〒153-0051 東京都目黒区上目黒３丁目６",
-    "capacity": null,
-    "lat": 35.6433111,
-    "lng": 139.6975254,
-    "place_id": "ChIJfwZfE0mLGGARRD6N2QVZc1E",
-    "source": null
-  },
-  {
-    "name": "中目黒SPARK JOY",
-    "address": "〒153-0051 東京都目黒区上目黒１丁目５−１０ 中目黒マンション B12",
-    "capacity": null,
-    "lat": 35.6446322,
-    "lng": 139.700458,
-    "place_id": "ChIJDzci6ZiLGGARRZbsY-zdanI",
-    "source": null
-  },
-  {
-    "name": "CHAD",
-    "address": "〒153-0043 東京都目黒区東山３丁目１５−１４ 2階 ビル",
-    "capacity": null,
-    "lat": 35.650344,
-    "lng": 139.684542699999,
-    "place_id": "ChIJAQBlEqn0GGARiLqq9Q0nauk",
-    "source": null
-  },
-  {
-    "name": "イベントスペース 目黒カフー",
-    "address": "〒153-0064 東京都目黒区下目黒２丁目２３−２ エストラルゴ目黒 B1",
-    "capacity": null,
-    "lat": 35.6311789999999,
-    "lng": 139.7107416,
-    "place_id": "ChIJKcql8SGLGGARjZqMjteAVF0",
-    "source": null
-  },
-  {
-    "name": "ＭｃＣａｒｔｎｅｙ",
-    "address": "〒152-0035 東京都目黒区自由が丘１丁目２７−２ ひかり街 3F12号",
-    "capacity": null,
-    "lat": 35.6097685999999,
-    "lng": 139.6699804,
-    "place_id": "ChIJBzlFlB_1GGARyKHZ2VWPztU",
-    "source": null
-  },
-  {
     "name": "恵比寿CreAto",
     "address": "〒150-0011 東京都渋谷区東３丁目１４−１９ オークヒルズ B1",
     "capacity": null,
     "lat": 35.6513323,
     "lng": 139.7094591,
     "place_id": "ChIJFfiuUUKLGGARYSqBUjLu34g",
-    "source": null
-  },
-  {
-    "name": "JAZZ CAFE DINING BAR JAMMIN' - ジャミン",
-    "address": "〒152-0022 東京都目黒区柿の木坂１丁目３０−１９ グレース柿の木坂",
-    "capacity": null,
-    "lat": 35.6188962999999,
-    "lng": 139.6764977,
-    "place_id": "ChIJiWSC7dv0GGARZdfs-3QfVfs",
-    "source": null
-  },
-  {
-    "name": "Live House 珈琲美学",
-    "address": "〒152-0004 東京都目黒区鷹番２丁目１９−２０ B1",
-    "capacity": null,
-    "lat": 35.628895,
-    "lng": 139.6862516,
-    "place_id": "ChIJP1_QK8z0GGARYvECVP7BJIc",
-    "source": null
-  },
-  {
-    "name": "目黒Sound Field",
-    "address": "〒153-0065 東京都目黒区中町２丁目４２−１",
-    "capacity": null,
-    "lat": 35.6334924999999,
-    "lng": 139.692466,
-    "place_id": "ChIJ4S88bh6LGGAR6NeDkU4MJEs",
-    "source": null
-  },
-  {
-    "name": "エンターテイメントライブバー イーハトーブ",
-    "address": "〒152-0031 東京都目黒区中根１丁目１−８ ローヤルビル 1F",
-    "capacity": null,
-    "lat": 35.6182872,
-    "lng": 139.6766371,
-    "place_id": "ChIJ5RxOrt70GGARAH22A1x843M",
     "source": null
   },
   {
@@ -3327,15 +2031,6 @@
     "lat": 35.661482,
     "lng": 139.6694661,
     "place_id": "ChIJscIAGGrzGGAROoW9kySUQYQ",
-    "source": null
-  },
-  {
-    "name": "Jazz Bar & Diner A-TRAIN",
-    "address": "〒152-0004 東京都目黒区鷹番３丁目６−３ ケンジントン第一ビル 1階",
-    "capacity": null,
-    "lat": 35.6289315,
-    "lng": 139.6849286,
-    "place_id": "ChIJ1yWek870GGAR9OYqEMOmmdY",
     "source": null
   },
   {
@@ -3636,15 +2331,6 @@
     "source": null
   },
   {
-    "name": "music bar rpm",
-    "address": "〒155-0031 東京都世田谷区北沢２丁目７−５ 下北沢プラッツB1",
-    "capacity": null,
-    "lat": 35.6617935999999,
-    "lng": 139.6691539,
-    "place_id": "ChIJQxhLOWrzGGARgZSSz_EabBI",
-    "source": null
-  },
-  {
     "name": "キンのツボ",
     "address": "〒158-0097 東京都世田谷区用賀２丁目３６−１３ ＣＯＲＥプレイス用賀 B1",
     "capacity": null,
@@ -3798,15 +2484,6 @@
     "source": null
   },
   {
-    "name": "Jazz Bar Crazy Love",
-    "address": "〒156-0052 東京都世田谷区経堂１丁目２２−１８ タイムポート経堂 B1F",
-    "capacity": null,
-    "lat": 35.6507420999999,
-    "lng": 139.6358122,
-    "place_id": "ChIJoxISbZbzGGAR4ZQVIHjTN6Q",
-    "source": null
-  },
-  {
     "name": "mona records",
     "address": "〒155-0031 東京都世田谷区北沢２丁目１３−５ 3F",
     "capacity": null,
@@ -3858,15 +2535,6 @@
     "lat": 35.6620345,
     "lng": 139.6666004,
     "place_id": "ChIJOU6ejwfzGGARSv73LrJVhts",
-    "source": null
-  },
-  {
-    "name": "コムカフェ音倉",
-    "address": "〒155-0031 東京都世田谷区北沢２丁目２６−２３ ＥＬ・ＮＩＵ B1F",
-    "capacity": null,
-    "lat": 35.6624985,
-    "lng": 139.6668001,
-    "place_id": "ChIJeQoZdGvzGGARzDTLclCqgz0",
     "source": null
   },
   {
@@ -3933,30 +2601,12 @@
     "source": null
   },
   {
-    "name": "下北沢 Daisy Bar",
-    "address": "〒155-0031 東京都世田谷区北沢２丁目２−３ エルサント北沢 地下1階",
-    "capacity": null,
-    "lat": 35.6595855,
-    "lng": 139.6681155,
-    "place_id": "ChIJyxvqdWnzGGARhA7o7iyESG4",
-    "source": null
-  },
-  {
     "name": "ラプソディー",
     "address": "〒155-0031 東京都世田谷区北沢２丁目１−７ ハウジング北沢ビル２ Ⅱ5階",
     "capacity": null,
     "lat": 35.6591442,
     "lng": 139.667600699999,
     "place_id": "ChIJVVW-cmnzGGAR1rPGlackvc0",
-    "source": null
-  },
-  {
-    "name": "live+bar = 新代田クロッシング",
-    "address": "〒155-0033 東京都世田谷区代田５丁目２８−３ 3F",
-    "capacity": null,
-    "lat": 35.661409,
-    "lng": 139.660382,
-    "place_id": "ChIJF3BcqHLzGGARJIGGlEiARVw",
     "source": null
   },
   {
@@ -4002,15 +2652,6 @@
     "lat": 35.63091,
     "lng": 139.640943,
     "place_id": "ChIJI9JnHHr0GGARJxs-SPXHh0I",
-    "source": null
-  },
-  {
-    "name": "ライブ居酒屋ラウン",
-    "address": "〒155-0031 東京都世田谷区北沢２丁目３４−８ 北沢Km Bld. ３階",
-    "capacity": null,
-    "lat": 35.6634084999999,
-    "lng": 139.668537999999,
-    "place_id": "ChIJE7-q5GrzGGARhGrfpFIQERQ",
     "source": null
   },
   {
@@ -4164,15 +2805,6 @@
     "lat": 35.6589691,
     "lng": 139.6956478,
     "place_id": "ChIJn0Cff4KNGGARBnNIrSr_xa0",
-    "source": null
-  },
-  {
-    "name": "【ミュージックバー&ライブハウス】Live&Bar CrossRoad 【クロスロード】",
-    "address": "〒150-0043 東京都渋谷区道玄坂２丁目１９−２ B1",
-    "capacity": null,
-    "lat": 35.6589465,
-    "lng": 139.6965515,
-    "place_id": "ChIJ-zjEOW2NGGARp0vGj_sVww8",
     "source": null
   },
   {
@@ -4410,30 +3042,12 @@
     "source": null
   },
   {
-    "name": "ナカノステレオ",
-    "address": "〒164-0002 東京都中野区上高田５丁目４３−１ ２階 右奥",
-    "capacity": null,
-    "lat": 35.71638,
-    "lng": 139.672052,
-    "place_id": "ChIJVVVpPaLyGGARjlLOqa4MN7M",
-    "source": null
-  },
-  {
     "name": "ブライトブラウン BrightBrown Blues&Jazz Lounge",
     "address": "〒164-0001 東京都中野区中野５丁目５９−９",
     "capacity": null,
     "lat": 35.7075592,
     "lng": 139.6658726,
     "place_id": "ChIJbTzJ1ZbyGGARULScA6tDxlo",
-    "source": null
-  },
-  {
-    "name": "弁天",
-    "address": "〒164-0012 東京都中野区本町４丁目３９−６ ＴＮビル ２F",
-    "capacity": null,
-    "lat": 35.6961328999999,
-    "lng": 139.667522599999,
-    "place_id": "ChIJVZz2b-nyGGAR_CjuQaDfTUQ",
     "source": null
   },
   {
@@ -4461,24 +3075,6 @@
     "lat": 35.7182797,
     "lng": 139.652747,
     "place_id": "ChIJb78Lpc7yGGARaEhAHsc0n_g",
-    "source": null
-  },
-  {
-    "name": "スウィート レイン",
-    "address": "〒164-0001 東京都中野区中野５丁目４６−５ ｢岡田ビル B1F｣",
-    "capacity": null,
-    "lat": 35.7084076,
-    "lng": 139.6669525,
-    "place_id": "ChIJ0xOtGJfyGGARoLzp0msXAJY",
-    "source": null
-  },
-  {
-    "name": "Live Bar aja",
-    "address": "〒164-0011 東京都中野区中央２丁目２１−５ 金子ビル b1",
-    "capacity": null,
-    "lat": 35.7007938,
-    "lng": 139.6820247,
-    "place_id": "ChIJVVWhc8_yGGARG-M0o3ZvAfc",
     "source": null
   },
   {
@@ -4725,15 +3321,6 @@
     "source": null
   },
   {
-    "name": "music & drink bump city",
-    "address": "〒169-0073 東京都新宿区百人町１丁目２２−２６ 2階",
-    "capacity": null,
-    "lat": 35.6994685,
-    "lng": 139.6970657,
-    "place_id": "ChIJt8fVTbmNGGARWdK4ah3yBuY",
-    "source": null
-  },
-  {
     "name": "U.F.O.CLUB（ユーフォークラブ）",
     "address": "〒166-0003 東京都杉並区高円寺南１丁目１１−６ ハーモニーヒルズ B1F",
     "capacity": null,
@@ -4767,15 +3354,6 @@
     "lat": 35.7108318999999,
     "lng": 139.6668532,
     "place_id": "ChIJrSn8d6vzGGAROIB9qyObzNc",
-    "source": null
-  },
-  {
-    "name": "フォーク酒場ゆらゆら",
-    "address": "〒164-0013 東京都中野区弥生町２丁目２１−６ 中野新橋ペガサスビル B1-101",
-    "capacity": null,
-    "lat": 35.6924054,
-    "lng": 139.674510299999,
-    "place_id": "ChIJKcmAZ9zyGGARJzCsYFPZIvU",
     "source": null
   },
   {
@@ -4995,24 +3573,6 @@
     "source": null
   },
   {
-    "name": "ライブサロン十話音(とわおん) Live Salon toi-own",
-    "address": "〒166-0002 東京都杉並区高円寺北３丁目２−１５ B1",
-    "capacity": null,
-    "lat": 35.7058651,
-    "lng": 139.6481033,
-    "place_id": "ChIJ_akHHgDzGGARNMrJaFbe668",
-    "source": null
-  },
-  {
-    "name": "荻窪ベルベットサン",
-    "address": "〒167-0051 東京都杉並区荻窪３丁目４７−２１ サンライズビル 1F",
-    "capacity": null,
-    "lat": 35.7031965,
-    "lng": 139.6272981,
-    "place_id": "ChIJAQDsevftGGARj2w7iDqT-m8",
-    "source": null
-  },
-  {
     "name": "オン ザ ルーフ プラス ON THE ROOF PLUS",
     "address": "〒166-0004 東京都杉並区阿佐谷南１丁目１４−１３ T.コンフォート 地下1階",
     "capacity": null,
@@ -5040,15 +3600,6 @@
     "source": null
   },
   {
-    "name": "アケタの店",
-    "address": "〒167-0042 東京都杉並区西荻北３丁目２１−１３ 吉野ビル BF",
-    "capacity": null,
-    "lat": 35.7052437,
-    "lng": 139.6005715,
-    "place_id": "ChIJH1FrPw7uGGARsl6xHUuD7mU",
-    "source": null
-  },
-  {
     "name": "Music Lounge J SHIMOIGUSA",
     "address": "〒167-0022 東京都杉並区下井草２丁目３２−５ ＪＢＫビル Ｂ１",
     "capacity": null,
@@ -5064,33 +3615,6 @@
     "lat": 35.7074076,
     "lng": 139.650049699999,
     "place_id": "ChIJY6w6933yGGARHey2quAFqJM",
-    "source": null
-  },
-  {
-    "name": "mogumogu (阿佐ヶ谷のLive & Cafe Bar)",
-    "address": "〒166-0004 東京都杉並区阿佐谷南１丁目３６−１５ マガザン阿佐ヶ谷 3階",
-    "capacity": null,
-    "lat": 35.7033036,
-    "lng": 139.6370101,
-    "place_id": "ChIJ5WJwWqrzGGARUna5hJImtLk",
-    "source": null
-  },
-  {
-    "name": "LIVE BAR Soul玉Tokyo",
-    "address": "166-0001 2F, 2, ２丁目-１３ 阿佐谷北 杉並区 東京都 166-0001",
-    "capacity": null,
-    "lat": 35.7057107,
-    "lng": 139.6363022,
-    "place_id": "ChIJhe7Ta3byGGARwR7k9hENZeI",
-    "source": null
-  },
-  {
-    "name": "和楽器BAR 龍宮〜Ryu Guw〜",
-    "address": "〒166-0003 東京都杉並区高円寺南２丁目２１−６ 12紀州ビル B1",
-    "capacity": null,
-    "lat": 35.7004185,
-    "lng": 139.647492299999,
-    "place_id": "ChIJK2XzAGPyGGAR0gnFPimIx-g",
     "source": null
   },
   {
@@ -5145,33 +3669,6 @@
     "lat": 35.70528,
     "lng": 139.6378676,
     "place_id": "ChIJXyZwBHfyGGAReex9vm4xUAI",
-    "source": null
-  },
-  {
-    "name": "西荻窪 Pit Bar",
-    "address": "〒167-0053 東京都杉並区西荻南３丁目１４−１０",
-    "capacity": null,
-    "lat": 35.703606,
-    "lng": 139.600952,
-    "place_id": "ChIJE7Lwuw_uGGARUuBWmqN2DMA",
-    "source": null
-  },
-  {
-    "name": "Acoustic Live Bar harness",
-    "address": "〒166-0004 東京都杉並区阿佐谷南２丁目１８−９ ゴールドビル阿佐ヶ谷 B1",
-    "capacity": null,
-    "lat": 35.7047066999999,
-    "lng": 139.637889299999,
-    "place_id": "ChIJtQAcHHfyGGARFQzZ3SdH9hw",
-    "source": null
-  },
-  {
-    "name": "Live Bar ロンサム",
-    "address": "〒166-0004 東京都杉並区阿佐谷南２丁目１７−２ 第６６オーナーズビル 2階",
-    "capacity": null,
-    "lat": 35.7048459999999,
-    "lng": 139.6377305,
-    "place_id": "ChIJy1qP4L3zGGARjXCovNDS6nM",
     "source": null
   },
   {
@@ -5280,15 +3777,6 @@
     "lat": 35.735303,
     "lng": 139.7113084,
     "place_id": "ChIJf9Xv01-NGGARVP0hXzcxEFc",
-    "source": null
-  },
-  {
-    "name": "池袋 音処・手刀(チョップ)",
-    "address": "〒171-0014 東京都豊島区池袋２丁目４６−３ シーマ100 B1",
-    "capacity": null,
-    "lat": 35.7337516,
-    "lng": 139.710451899999,
-    "place_id": "ChIJRf1SPl6NGGARYKoD4vpSTLM",
     "source": null
   },
   {
@@ -5967,24 +4455,6 @@
     "source": null
   },
   {
-    "name": "ダボスタジオ",
-    "address": "〒173-0014 東京都板橋区大山東町４５−４",
-    "capacity": null,
-    "lat": 35.749306,
-    "lng": 139.705352,
-    "place_id": "ChIJdWjZXLmSGGARoCoqy-hsk84",
-    "source": null
-  },
-  {
-    "name": "Bar Nyarango バー・ニャランゴ",
-    "address": "〒175-0094 東京都板橋区成増２丁目１−１ アルカディア安井 1F",
-    "capacity": null,
-    "lat": 35.7740467,
-    "lng": 139.6355418,
-    "place_id": "ChIJV_4IZXHsGGARKZlALuDS6cQ",
-    "source": null
-  },
-  {
     "name": "イベントスペース Log-HOUSE",
     "address": "〒174-0041 東京都板橋区舟渡４丁目１２−１８",
     "capacity": null,
@@ -6207,42 +4677,6 @@
     "lat": 35.7665065,
     "lng": 139.8487273,
     "place_id": "ChIJ6fqbO4-PGGARcq5T8ngVnkA",
-    "source": null
-  },
-  {
-    "name": "オールデイズ",
-    "address": "〒124-0012 東京都葛飾区立石１丁目２２−１ 塩谷ビル",
-    "capacity": null,
-    "lat": 35.738006,
-    "lng": 139.8494826,
-    "place_id": "ChIJ8-eEVGePGGAREK2O0vo9M2k",
-    "source": null
-  },
-  {
-    "name": "LIVE CAFE BACK IN TIME",
-    "address": "〒133-0056 東京都江戸川区南小岩８丁目１６−４",
-    "capacity": null,
-    "lat": 35.7344308,
-    "lng": 139.8841817,
-    "place_id": "ChIJuY2NP9iFGGARQbOTtoonAAM",
-    "source": null
-  },
-  {
-    "name": "Jazz Live Bar Jack&Suzie",
-    "address": "〒125-0061 東京都葛飾区亀有３丁目３０−２",
-    "capacity": null,
-    "lat": 35.7656681,
-    "lng": 139.8486953,
-    "place_id": "ChIJp-7SOQCPGGAR9cWjOdPpnGA",
-    "source": null
-  },
-  {
-    "name": "Live Bar 月光",
-    "address": "〒124-0024 東京都葛飾区新小岩２丁目３２−６ NICOハイム新小岩 Ⅱ B1F",
-    "capacity": null,
-    "lat": 35.7154686,
-    "lng": 139.8639059,
-    "place_id": "ChIJ61gQ96iHGGARCPuKsCyoDG8",
     "source": null
   },
   {
@@ -6543,15 +4977,6 @@
     "source": null
   },
   {
-    "name": "エンタメ隠れ家バー seagull",
-    "address": "〒279-0001 千葉県浦安市当代島１丁目３−３０ 602号",
-    "capacity": null,
-    "lat": 35.6666236,
-    "lng": 139.8927728,
-    "place_id": "ChIJhRwSeM2HGGARDIlujhUC3is",
-    "source": null
-  },
-  {
     "name": "小松川さくらホール",
     "address": "〒132-0034 東京都江戸川区小松川３丁目６−３",
     "capacity": null,
@@ -6786,78 +5211,6 @@
     "source": null
   },
   {
-    "name": "はり猫",
-    "address": "〒192-0083 東京都八王子市旭町８−２",
-    "capacity": null,
-    "lat": 35.65741,
-    "lng": 139.337951,
-    "place_id": "ChIJG-WdAtkdGWARRjIRAKgw5ZQ",
-    "source": null
-  },
-  {
-    "name": "ソウルK",
-    "address": "〒191-0061 東京都日野市大坂上１丁目３０−２６",
-    "capacity": null,
-    "lat": 35.6786117,
-    "lng": 139.3929566,
-    "place_id": "ChIJOYdaiybiGGARYCcOmcMF5ro",
-    "source": null
-  },
-  {
-    "name": "ジンハウス",
-    "address": "〒196-0003 東京都昭島市松原町４丁目１２−４ 三愛ビル",
-    "capacity": null,
-    "lat": 35.720286,
-    "lng": 139.343343,
-    "place_id": "ChIJhe8_k5QfGWARiRhPh1wxchA",
-    "source": null
-  },
-  {
-    "name": "Music BAR TWIST",
-    "address": "〒192-0904 東京都八王子市子安町１丁目６−８",
-    "capacity": null,
-    "lat": 35.6533594,
-    "lng": 139.3397697,
-    "place_id": "ChIJvZ3iftsdGWARn2Fgom6kTQM",
-    "source": null
-  },
-  {
-    "name": "セッションカフェバー コルコバード",
-    "address": "〒206-0041 東京都多摩市落合１丁目19−１６ パーク・タマ Ｂ102 音楽工房コルコバード：",
-    "capacity": null,
-    "lat": 35.6240482,
-    "lng": 139.430702,
-    "place_id": "ChIJzSiXsrT8GGARJIqw00Hp8-c",
-    "source": null
-  },
-  {
-    "name": "高尾ひょうたんハウス",
-    "address": "〒193-0844 東京都八王子市高尾町１９２３−１",
-    "capacity": null,
-    "lat": 35.638284,
-    "lng": 139.2705377,
-    "place_id": "ChIJ584yUwAZGWARLrddcumqqoE",
-    "source": null
-  },
-  {
-    "name": "クレージージャム",
-    "address": "〒190-0011 東京都立川市高松町２丁目２６−３",
-    "capacity": null,
-    "lat": 35.7050629999999,
-    "lng": 139.4190164,
-    "place_id": "ChIJ30Yb9G7hGGARkaJ7MLslHLw",
-    "source": null
-  },
-  {
-    "name": "ライブ·バーHeart Beat",
-    "address": "〒190-0022 東京都立川市錦町２丁目１−３５ Ktd 錦町ビル B1F ３５Ｓｏｕｎｄ Ｓｔｕｄｉｏ Ｂｌｕｅ Ｍｏｏｎ立川",
-    "capacity": null,
-    "lat": 35.6960265999999,
-    "lng": 139.414934,
-    "place_id": "ChIJowoEXXvhGGARsCQKwGooPec",
-    "source": null
-  },
-  {
     "name": "チキンシャック",
     "address": "〒197-0011 東京都福生市福生８７６",
     "capacity": null,
@@ -7029,30 +5382,12 @@
     "source": null
   },
   {
-    "name": "立川市エンターテインメントステージエース",
-    "address": "〒190-0022 東京都立川市錦町２丁目１−２５",
-    "capacity": null,
-    "lat": 35.6953053,
-    "lng": 139.4146749,
-    "place_id": "ChIJ-zxfsKThGGARNNY_u66q56I",
-    "source": null
-  },
-  {
     "name": "Cafebar Coo",
     "address": "〒207-0013 東京都東大和市向原６丁目１４０４−７",
     "capacity": null,
     "lat": 35.7356671,
     "lng": 139.4353175,
     "place_id": "ChIJqUH19CfhGGARiJK4sMhRyNg",
-    "source": null
-  },
-  {
-    "name": "JESSE JAMES 立川店",
-    "address": "〒190-0012 東京都立川市曙町２丁目１１−７",
-    "capacity": null,
-    "lat": 35.7001123,
-    "lng": 139.415084,
-    "place_id": "ChIJV4E6-b7hGGARt6JuyrCJi8k",
     "source": null
   },
   {
@@ -7071,15 +5406,6 @@
     "lat": 35.6960265999999,
     "lng": 139.414934,
     "place_id": "ChIJowoEXXvhGGARFn7UUU5ytE8",
-    "source": null
-  },
-  {
-    "name": "地球屋",
-    "address": "〒186-0002 東京都国立市東１丁目１６−１３ 諸橋ビル B1",
-    "capacity": null,
-    "lat": 35.6962386999999,
-    "lng": 139.4470201,
-    "place_id": "ChIJfxFSjAfkGGARAjqI5mKPbf4",
     "source": null
   },
   {
@@ -7200,15 +5526,6 @@
     "source": null
   },
   {
-    "name": "サムタイム",
-    "address": "〒180-0004 東京都武蔵野市吉祥寺本町１丁目１１−３１ B1F",
-    "capacity": null,
-    "lat": 35.7047399,
-    "lng": 139.5801205,
-    "place_id": "ChIJOykfyEfuGGARjH1KKQ2PWuw",
-    "source": null
-  },
-  {
     "name": "NEPO",
     "address": "〒181-0013 東京都三鷹市下連雀１丁目１７−４ GRATO井の頭公園 B1F",
     "capacity": null,
@@ -7251,15 +5568,6 @@
     "lat": 35.7045057,
     "lng": 139.5830536,
     "place_id": "ChIJSWR5XEfuGGAR7OLgaJDcsHY",
-    "source": null
-  },
-  {
-    "name": "南郷７丁目",
-    "address": "〒180-0003 東京都武蔵野市吉祥寺南町２丁目８−８ エム２８８ビル",
-    "capacity": null,
-    "lat": 35.701992,
-    "lng": 139.5820566,
-    "place_id": "ChIJ1WEJ8DjuGGAR0ky6cLQamn8",
     "source": null
   },
   {
@@ -7332,60 +5640,6 @@
     "lat": 35.70265,
     "lng": 139.578715,
     "place_id": "ChIJGw7MBkjuGGAR29GRlTRxReU",
-    "source": null
-  },
-  {
-    "name": "武蔵境STATTO",
-    "address": "〒180-0022 東京都武蔵野市境１丁目１２−３",
-    "capacity": null,
-    "lat": 35.7040694999999,
-    "lng": 139.5461035,
-    "place_id": "ChIJxd4cIp_vGGAR8DtF8bm1IKs",
-    "source": null
-  },
-  {
-    "name": "CASINO LOUNGE EGG",
-    "address": "〒180-0004 東京都武蔵野市吉祥寺本町１丁目２３−３ とみふくびる B1F",
-    "capacity": null,
-    "lat": 35.7041532,
-    "lng": 139.5817606,
-    "place_id": "ChIJpzY7nr_vGGARmT4UmO_Cey4",
-    "source": null
-  },
-  {
-    "name": "吉祥寺 Mojo Cafe",
-    "address": "〒180-0004 東京都武蔵野市吉祥寺本町１丁目１２−４ 2階",
-    "capacity": null,
-    "lat": 35.7059837,
-    "lng": 139.58109,
-    "place_id": "ChIJa7kSUUbuGGARJdAc3wYL1hQ",
-    "source": null
-  },
-  {
-    "name": "スタジオペンタ吉祥寺サウスサイド",
-    "address": "〒180-0003 東京都武蔵野市吉祥寺南町１丁目１−４",
-    "capacity": null,
-    "lat": 35.702841,
-    "lng": 139.578916,
-    "place_id": "ChIJ_3CH_UfuGGARk_rEKKnBcP0",
-    "source": null
-  },
-  {
-    "name": "John Henry's Study（ジョン・ヘンリーの書斎）",
-    "address": "〒180-0004 東京都武蔵野市吉祥寺本町１丁目８−１４ ３Ｆ",
-    "capacity": null,
-    "lat": 35.7049769,
-    "lng": 139.5786764,
-    "place_id": "ChIJA6nng0juGGARpKFUwhnzyO0",
-    "source": null
-  },
-  {
-    "name": "おんがくのじかん",
-    "address": "〒181-0013 東京都三鷹市下連雀３丁目３２−４",
-    "capacity": null,
-    "lat": 35.6987741999999,
-    "lng": 139.5609196,
-    "place_id": "ChIJr0EaIbfvGGARTABOPVf-dAA",
     "source": null
   },
   {
@@ -7566,33 +5820,6 @@
     "lat": 35.662817,
     "lng": 139.669627599999,
     "place_id": "ChIJe8ij3urzGGARusbxKaetQGM",
-    "source": null
-  },
-  {
-    "name": "㈱アンティノック",
-    "address": "〒155-0031 東京都世田谷区北沢２丁目１０−１５",
-    "capacity": null,
-    "lat": 35.66159,
-    "lng": 139.66832,
-    "place_id": "ChIJ7bB1NWrzGGAREvl6P3RIIms",
-    "source": null
-  },
-  {
-    "name": "ぷあかう",
-    "address": "〒155-0031 東京都世田谷区北沢２丁目９−２４ 博雅ビル",
-    "capacity": null,
-    "lat": 35.6618481,
-    "lng": 139.6689762,
-    "place_id": "ChIJq6qLOGrzGGARhuRqf-V-4uE",
-    "source": null
-  },
-  {
-    "name": "げによい",
-    "address": "〒155-0032 東京都世田谷区代沢５丁目３６−８ 2F",
-    "capacity": null,
-    "lat": 35.6592431,
-    "lng": 139.6668253,
-    "place_id": "ChIJAQCVQmnzGGARVdTprTqb8UI",
     "source": null
   },
   {
@@ -8136,15 +6363,6 @@
     "source": "events"
   },
   {
-    "name": "LiveCafe&Bar 赤坂Roman",
-    "address": "東京都港区赤坂２丁目１７−５８",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
-    "source": "events"
-  },
-  {
     "name": "MIFA Football Park 立川",
     "address": "東京都立川市泉町９３５−１",
     "capacity": null,
@@ -8181,15 +6399,6 @@
     "source": "events"
   },
   {
-    "name": "Music Bar ROCKAHOLIC-Shinjuku-",
-    "address": "〒160-0021 東京都新宿区歌舞伎町２丁目３８−３ stella.K B1",
-    "capacity": null,
-    "lat": 35.6962864,
-    "lng": 139.7019133,
-    "place_id": "ChIJZ730MeiNGGARr6iT1ld1EB8",
-    "source": "events"
-  },
-  {
     "name": "NINE SPICES",
     "address": "東京都新宿区歌舞伎町2-1-2",
     "capacity": null,
@@ -8214,15 +6423,6 @@
     "lat": 35.4636359,
     "lng": 139.6187321,
     "place_id": "ChIJC5meFapdGGARMEsdThz-tOE",
-    "source": "events"
-  },
-  {
-    "name": "Robin Club 表参道",
-    "address": "東京都港区南青山5-6-23",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
     "source": "events"
   },
   {
@@ -8631,87 +6831,6 @@
     "source": "events"
   },
   {
-    "name": "まほろ座",
-    "address": "〒194-0022 東京都町田市森野１丁目１５−１３ パリオビルB1F",
-    "capacity": null,
-    "lat": 35.54322,
-    "lng": 139.443999,
-    "place_id": "ChIJ_ymanbP-GGARdPbxfc_EV94",
-    "source": "events"
-  },
-  {
-    "name": "まほろ座 MACHIDA",
-    "address": "東京都町田市森野1-15-13",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
-    "source": "events"
-  },
-  {
-    "name": "れすとはうす みんと",
-    "address": "〒100-0400 東京都新島村瀬戸山１２０ 新島親水公園",
-    "capacity": null,
-    "lat": 34.3628024,
-    "lng": 139.2545075,
-    "place_id": "ChIJd6XLqGMPF2ARg76XRtttlp0",
-    "source": "events"
-  },
-  {
-    "name": "アニソンDJクラブ 雷神",
-    "address": "〒101-0025 東京都千代田区神田佐久間町２丁目１０",
-    "capacity": null,
-    "lat": 35.6978481999999,
-    "lng": 139.7761435,
-    "place_id": "ChIJnwvTN5fyGGAR81P2mt-0PSM",
-    "source": "events"
-  },
-  {
-    "name": "アーティストサロン\"Dolce\"",
-    "address": "〒160-0023 東京都新宿区西新宿１丁目１３−１２ 8階",
-    "capacity": null,
-    "lat": 35.6898796,
-    "lng": 139.6966416,
-    "place_id": "ChIJe_POFEyNGGARQie76YTqrX8",
-    "source": "events"
-  },
-  {
-    "name": "アーティストサロン“Dolce”",
-    "address": "東京都新宿区西新宿1-13-12",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
-    "source": "events"
-  },
-  {
-    "name": "カフェ ラ ホヌ",
-    "address": "〒343-0807 埼玉県越谷市赤山町１丁目１６０−１",
-    "capacity": null,
-    "lat": 35.8880197,
-    "lng": 139.7825018,
-    "place_id": "ChIJGXNp0HGWGGAREJ6_C8msd9w",
-    "source": "events"
-  },
-  {
-    "name": "カラオケバー2ndフロア",
-    "address": "東京都中野区中央4-8-7",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
-    "source": "events"
-  },
-  {
-    "name": "ガルバホール新宿",
-    "address": "東京都新宿区西新宿6-21-1",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
-    "source": "events"
-  },
-  {
     "name": "グランドプリンスホテル高輪",
     "address": "〒108-0074 東京都港区高輪３丁目１３−１ グランドプリンスホテル",
     "capacity": null,
@@ -8730,57 +6849,12 @@
     "source": "events"
   },
   {
-    "name": "スパガ16周年記念委員会",
-    "address": null,
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
-    "source": "events"
-  },
-  {
-    "name": "スペース Do(ドゥ) 管楽器専門店ダク地下",
-    "address": "〒169-0073 東京都新宿区百人町２丁目８−９",
-    "capacity": null,
-    "lat": 35.7033933,
-    "lng": 139.699431799999,
-    "place_id": "ChIJaaEAsC-NGGARERqv1yEhej8",
-    "source": "events"
-  },
-  {
-    "name": "パーシモンホール　小ホール",
-    "address": "東京都目黒区八雲１丁目１−１",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
-    "source": "events"
-  },
-  {
     "name": "ベヒシュタイン・セントラム 東京",
     "address": "〒100-0006 東京都千代田区有楽町１丁目５−１ 日比谷マリンビル B1F",
     "capacity": null,
     "lat": 35.6744762999999,
     "lng": 139.7596575,
     "place_id": "ChIJ__9v3cOLGGAREhjnVNuP_1g",
-    "source": "events"
-  },
-  {
-    "name": "ボルダリングスペース ブロー",
-    "address": "東京都杉並区高円寺南3-6-3",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
-    "source": "events"
-  },
-  {
-    "name": "ヤマザキショップ（Yショップ）上総屋店",
-    "address": "東京都中央区日本橋浜町２丁目５５−５",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
     "source": "events"
   },
   {
@@ -9324,42 +7398,6 @@
     "source": "events"
   },
   {
-    "name": "東京都内某所※チケットをご購入いただいた方のみに詳細な場所お送りいたします",
-    "address": "東京都内某所※チケットをご購入いただいた方のみに詳細な場所お送りいたします",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
-    "source": "events"
-  },
-  {
-    "name": "東京都千代田区",
-    "address": "東京都千代田区【開催時間】11:00～18:45",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
-    "source": "events"
-  },
-  {
-    "name": "東京音楽堂日本橋",
-    "address": "東京都中央区日本橋小舟町3-12",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
-    "source": "events"
-  },
-  {
-    "name": "東京：gee-ge.",
-    "address": "東京都渋谷区宇田川町3-10",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
-    "source": "events"
-  },
-  {
     "name": "武蔵野市民文化会館大ホール",
     "address": "〒180-0006 東京都武蔵野市中町３丁目９−１１",
     "capacity": null,
@@ -9803,42 +7841,6 @@
   {
     "name": "青山　月見ル君想フ",
     "address": "東京都港区南青山４丁目９−１",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
-    "source": "events"
-  },
-  {
-    "name": "音楽室ゆらぎ",
-    "address": "〒175-0094 東京都板橋区成増４丁目１８−２１",
-    "capacity": null,
-    "lat": 35.7839446,
-    "lng": 139.633128799999,
-    "place_id": "ChIJC17bGM7rGGARPY9l6B_PY14",
-    "source": "events"
-  },
-  {
-    "name": "音部屋スクエア 高田馬場",
-    "address": "東京都新宿区高田馬場4丁目－4－13",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
-    "source": "events"
-  },
-  {
-    "name": "高円寺JIROKICHI",
-    "address": "東京都杉並区高円寺北2-3-4",
-    "capacity": null,
-    "lat": null,
-    "lng": null,
-    "place_id": null,
-    "source": "events"
-  },
-  {
-    "name": "麻布十番WILDSIDE",
-    "address": "東京都港区南麻布1-6-36",
     "capacity": null,
     "lat": null,
     "lng": null,
